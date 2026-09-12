@@ -129,6 +129,7 @@ Ecosystem guides for programming languages focusing on framework selection, perf
 ### 🏗️ Frameworks
 Architecture specialists for popular frameworks focusing on project structure, state management decisions, and performance optimization.
 
+- **[Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril)** - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 - **[React Architect](./frameworks/react-architect.md)** - React 18+ architectural decisions, state management selection, performance optimization, and testing strategies
 - **[Vue Specialist](./frameworks/vue-specialist.md)** - Vue 3 Composition API architecture, Pinia vs alternatives, performance patterns, and modern tooling
 - **[Angular Expert](./frameworks/angular-expert.md)** - Angular 17+ architectural patterns, state management, RxJS optimization, and enterprise scaling
